@@ -16,8 +16,8 @@
 
 ---
 
-## 🛠️ Tech Stack
-### Programming
+<h1><b>## 🛠️ Tech Stack </b> </h1>
+<h2><b> ### Programming </b></h2>
 Java
 ### Frontend
 HTML | CSS 
