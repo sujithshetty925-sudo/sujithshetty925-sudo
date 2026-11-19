@@ -17,25 +17,24 @@
 ---
 
 ## 🛠️ Tech Stack
-
+### Programming
+Java
+### Frontend
+HTML | CSS 
+### Database
+MYSQL
 ### Cloud
-AWS
-
+Amazon Web Services(AWS)
 ### Operating Systems
-Linux | Ubuntu | RHEL
-
+ Amazon Linux | RHEL
 ### DevOps Tools
 Git | GitHub | Jenkins | Docker | Kubernetes | Terraform
-
 ### Scripting
-Python | Bash
+Bash Scripting
 
 ---
 
 ## 🚀 Projects
-
-### 🐧 Linux Server Automation & Monitoring
-Automating Linux administration tasks and monitoring server health using scripting and Linux utilities.
 
 ### 🔄 CI/CD Pipeline for Python Flask Application
 Building an automated CI/CD workflow to streamline application integration and deployment.
