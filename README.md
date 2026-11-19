@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sujith Shetty</h1>
+<h1 align="center">Hi , I'm SHETTY SUJITH</h1>
 
 <h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | Automation</h3>
 
