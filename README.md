@@ -2,9 +2,6 @@
 
 <h3 align="center">Aspiring DevOps & Cloud Engineer | AWS | Linux | Automation</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Cloud+%26+Infrastructure+Enthusiast;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes" />
-</p>
 
 ---
 
