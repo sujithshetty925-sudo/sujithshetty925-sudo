@@ -16,21 +16,55 @@
 
 ---
 
-<h1><b>🛠️ Tech Stack </b> </h1>
-<h2><b> Programming </b></h2>
-Java
-Frontend
-HTML | CSS 
-Database
-MYSQL
-Cloud
-Amazon Web Services(AWS)
-Operating Systems
-Amazon Linux | RHEL
-DevOps Tools
-Git | GitHub | Jenkins | Docker | Kubernetes | Terraform
-Scripting
-Bash Scripting
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js" />
+  </a>
+</p>
+
+#### ⚡ Backend & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,kafka" />
+  </a>
+</p>
+
+* *Core Backend:* JDBC, REST APIs, Microservices, Multithreading, Socket Programming
+
+#### 🌐 Frontend & UI
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+* *Database Tools & Querying:* SQL, MySQL Workbench, SQL*Plus, H2 Database
+
+#### ☁️ Cloud & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github,githubactions" />
+  </a>
+</p>
+
+* *Cloud & Infrastructure:* AWS (EC2, S3, IAM, VPC), Shell Scripting, CI/CD Pipelines
+
+#### 🧰 Developer Tools & IDEs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode,postman" />
+  </a>
+</p>
 
 ---
 
