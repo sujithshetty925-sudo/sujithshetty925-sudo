@@ -16,20 +16,20 @@
 
 ---
 
-<h1><b>## 🛠️ Tech Stack </b> </h1>
-<h2><b> ### Programming </b></h2>
+<h1><b>🛠️ Tech Stack </b> </h1>
+<h2><b> Programming </b></h2>
 Java
-### Frontend
+Frontend
 HTML | CSS 
-### Database
+Database
 MYSQL
-### Cloud
+Cloud
 Amazon Web Services(AWS)
-### Operating Systems
- Amazon Linux | RHEL
-### DevOps Tools
+Operating Systems
+Amazon Linux | RHEL
+DevOps Tools
 Git | GitHub | Jenkins | Docker | Kubernetes | Terraform
-### Scripting
+Scripting
 Bash Scripting
 
 ---
